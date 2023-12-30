@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Omar Faruk</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarfaruk-k&label=Profile%20views&color=0e75b6&style=flat" alt="masum-osman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=omarfaruk-k&label=Profile%20views&color=0e75b6&style=flat" alt="omarfaruk-k" /> </p>
 
 <!-- **asadullahrifat89/asadullahrifat89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
