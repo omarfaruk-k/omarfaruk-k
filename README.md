@@ -35,21 +35,25 @@ link: https://masum-osman.github.io/ -->
 #### What my skill set looks like?
 - 🗄️ **Back-end:**
   - **📜 Languages:** • `🧙🏻‍♂️ C++, C, Python`
-  <!-- - **🔭 Frameworks:** • [Beego](https://beego.vip/) • [ExpressJS](https://expressjs.com/) • [Gin](https://gin-gonic.com/) • [Flask](https://flask.palletsprojects.com/en/2.2.x/)
-  - **💾 Databases:** • [MySQL](https://www.mysql.com/) • [MongoDB](https://www.mongodb.com/) • [Redis](https://redis.io/) • [InfluxDB](https://influx.com/) • [Neo4j](https://neo4j.com/)
-  - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
-  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [RabbitMQ](https://www.rabbitmq.com/) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-<!-- - 🎡 **Software development ecosystem:**
-  - **📁 Code repository:** • [Github](https://github.com/) • [Gitlab](https://gitlab.com) 
-  - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Trello](https://trello.com/) • [Redmine](https://www.redmine.org/)
+  <!-- - **🔭 Frameworks:** • [Beego](https://beego.vip/) • [ExpressJS](https://expressjs.com/) • [Gin](https://gin-gonic.com/) • [Flask](https://flask.palletsprojects.com/en/2.2.x/) -->
+
+  - **💾 Databases:** • [MySQL](https://www.mysql.com/)
+   <!-- • [MongoDB](https://www.mongodb.com/) • [Redis](https://redis.io/) • [InfluxDB](https://influx.com/) • [Neo4j](https://neo4j.com/) -->
+
+  <!-- - **🎛 System architecture:** • [Monolithic](https://microservices.io/patterns/monolithic.html) • [Microservices](https://microservices.io/patterns/microservices.html)
+  - **🔌 Communication protocols:** • [REST](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) • [RabbitMQ](https://www.rabbitmq.com/) • [TCP/IP](https://www.techtarget.com/searchnetworking/definition/TCP-IP) • [Web Socket](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API) -->
+<!-- - 🎡 **Software development ecosystem:** -->
+  - **📁 Code repository:** • [Github](https://github.com/)
+   <!-- • [Gitlab](https://gitlab.com)  -->
+  <!-- - **🗃 Project management:** • [Jira Scrum Boards](https://www.atlassian.com/software/jira/features/scrum-boards) • [Trello](https://trello.com/) • [Redmine](https://www.redmine.org/)
   - **🗂 CI/CD:** • [Github Actions](https://github.com/features/actions) • [Github Pages](https://pages.github.com/)
-- 🧙‍♂️ **Coding pattern & principles:**
+<!-- - 🧙‍♂️ **Coding pattern & principles:**
   - **⚒ Patterns:**  • [Mediator](https://en.wikipedia.org/wiki/Mediator_pattern) • [Bridge](https://en.wikipedia.org/wiki/Bridge_pattern) • [CQRS](https://en.wikipedia.org/wiki/Command%E2%80%93query_separation#Command_Query_Responsibility_Separation) • [MVVM](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel) • [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) • [SAGA](https://microservices.io/patterns/data/saga.html) • [Event Sourcing](https://microservices.io/patterns/data/event-sourcing.html) • [Message Queuing](https://www.cloudamqp.com/blog/what-is-message-queuing.html)
-  - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) --> 
+  - **🗜 Principles:** • [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself#:~:text=%22Don%27t%20repeat%20yourself%22,data%20normalization%20to%20avoid%20redundancy.) • [ACID](https://en.wikipedia.org/wiki/ACID) • [DDD](https://en.wikipedia.org/wiki/Domain-driven_design) • [SOLID](https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) -->
 
 
 🖥 **Front-end:** 
-  - **📜 Languages:** • `🧚🏻‍♂️ HTML` • 
+  - **📜 Languages:** • ` HTML`
   <!-- - **🔬 Frameworks:**  
     - **🖥 Desktop:** • [Uno Platform](https://platform.uno/) • [WinUI 3](https://docs.microsoft.com/en-us/windows/apps/winui/) • [WPF](https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0) 
     - **🌐 Web:** • [Blazor WASM](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor) • [Uno WASM](https://platform.uno/uno-platform-for-web-webassembly/) • [Open Silver](https://opensilver.net/) • [ASP.NET MVC](https://dotnet.microsoft.com/en-us/apps/aspnet/mvc)
@@ -142,3 +146,4 @@ link: https://masum-osman.github.io/ -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=omarfaruk-k&show_icons=true&locale=en" alt="omarfaruk-k" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfaruk-k&" alt="omarfaruk-k" /></p>
 
+<!-- [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6543e3f14352f418f80d752e?variant=dark)](https://roadmap.sh) -->
